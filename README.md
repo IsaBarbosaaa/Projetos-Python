@@ -1,5 +1,5 @@
 
-# 🐍 Python — Primeiros Passos
+#  Python — Primeiros Passos
 
 Repositório com **mini‑projetos iniciais em Python** para praticar lógica, entrada/saída, condicionais, laços, funções, arquivos e consumo de API.  
 Cada projeto é independente, com **objetivo**, **como executar** e **o que você vai aprender**.
@@ -19,7 +19,7 @@ Cada projeto é independente, com **objetivo**, **como executar** e **o que voc�
 
 ---
 
-## 📂 Estrutura
+##  Estrutura
 ```
 python-primeiros-passos/
 ├─ 01_hello_world.py
@@ -36,7 +36,7 @@ python-primeiros-passos/
 
 ---
 
-## 🧩 Projetos
+##  Projetos
 
 ### 1) `01_hello_world.py` — Entrada/Saída e f-strings
 **Objetivo:** Imprimir mensagens, ler nome do usuário e cumprimentar.  
@@ -102,10 +102,3 @@ python-primeiros-passos/
 1) `pip install -r requirements.txt`  
 2) `python 08_consulta_cep.py`
 
----
-
-## ✅ Próximos passos
-- Refatorar os scripts em funções reutilizáveis.
-- Escrever testes simples com `pytest`.
-- Empacotar um projeto como módulo (`setup.cfg`/`pyproject.toml`).
-- Criar uma versão com interface gráfica (Tkinter) para 1–2 projetos.
